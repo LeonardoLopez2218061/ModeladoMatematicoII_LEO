@@ -1,4 +1,4 @@
-# ModeladoMatematico2
+# ModeladoMatematicoII
 Trabajos y entregables realizados en el curso de Modelado Matemático II
 
 # Sobre Tareas y entregables.

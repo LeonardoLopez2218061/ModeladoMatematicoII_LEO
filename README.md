@@ -1,9 +1,24 @@
-# ModeladoMatematicoII
-Trabajos y entregables realizados en el curso de Modelado Matemático II
+<img width="100%" src="figures/mathematical-model-cloud.jpg">
 
-# Sobre Tareas y entregables.
-- Para acceder a la tarea del 092421 click [aquí](https://github.com/LeonardoLopez2218061/ModeladoMatematico2/blob/main/Notebooks/092421Tarea2.ipynb)
+# Herramientas computacionales para modelado matemático
+Notas, Notebooks y Material para un curso de Modelado Matemático
 
-- Para acceder a la tarea del 093121 click [aquí](https://github.com/LeonardoLopez2218061/ModeladoMatematicoII_LEO/blob/main/Notebooks/093121Tarea1.ipynb) donde se estudia el problema de aproximación por series de Taylor; y [aquí](https://github.com/LeonardoLopez2218061/ModeladoMatematicoII_LEO/blob/main/Notebooks/093121Tarea3.ipynb) para la segunda parte, en la que se estudia la película de la pompa de jabón.
-
-- Para acceder a la tarea del 100821 click [aquí](https://github.com/LeonardoLopez2218061/ModeladoMatematicoII_LEO/blob/main/Notebooks/100821TareaSistemaLotkaVolterra.ipynb) donde se estudia un sistema acoplado tipo Lotka-Volterra de ecuaciones diferenciales no lineal.
+## Temario:
+| Tema | Contenido | Observaciones | Notas, Notebooks |
+| --- | --- | --- | --- |
+| 1. Representanción de números, Errores | --- | --- | --- |
+| 2. Errores, buenas prácticas de programación y depuración | --- | --- | --- |
+| 3. Álgebra lineal y sistemas de ecuaciones lineales | --- | --- | --- |
+| 4. Autovalores y autovectores | --- | --- | --- |
+| 5. Interpolación | --- | --- | --- |
+| 6. Series | --- | --- | --- |
+| 7. Raíces de ecuaciones | --- | --- | --- |
+| 8. Diferenciación numérica | --- | 2021.09.27 | [Diferenciacion_numerica](/Notebooks/Diferenciacion_numerica.ipynb) |
+| 9. Integración numérica | --- | 2021.09.20 | [Integracion_numerica](/Notebooks/Integracion_numerica.ipynb) |
+| 10. ODE's con problemas de valor inicial | --- | 2021.10.04 | [ODEs_inicial_value_problems](/Notebooks/ODEs_inicial_value_problems.ipynb) |
+| 11. ODE`s con problemas de frontera | --- | 2021.10.11 | [ODEs_boundary_value_problems](/Notebooks/ODEs_boundary_value_problems.ipynb) |
+| 12. Transformadas de Fourier y otras | --- | --- | --- |
+| 13. Least Square metodos y Ajuste de curvas | --- | --- | --- |
+| 14. Pragramación Orientada a Objetos | --- | --- | --- |
+| 15. Paraleliza tu código Python | --- | --- | --- |
+| 16. Visualización y gráficas | --- | --- | --- |
